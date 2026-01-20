@@ -1,7 +1,7 @@
-# MBX-Remote
+# MBXRemote
 Windows desktop client for MusicBee Remote Plugin
 
- MBX-Remote/README.md:
+ MBXRemote/README.md:
   # MBXRemote
 
   Windows desktop client for MusicBee Remote Plugin.
